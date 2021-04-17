@@ -7,7 +7,10 @@ I'm also a GitHub Campus Advisor with University of Florida and GitHub.
 - 💬 Ask me about: 
   1. For students: how to get started on Data Science, Machine Learning, Git and GitHub
   2. For faculty: how to integrate Git and GitHub with your course
-- 📫 How to reach me: 467 New Engineering Building, 1064 Center Dr, University of Florida --or-- by phone at (352) 392-6502
+- 📫 How to reach me: 
+  1. Address: 467 New Engineering Building, 1064 Center Dr, University of Florida
+  2. Telephone: (352) 392-6502
+  3. Email: catiaspsilva@ece.ufl.edu
 - 😄 Pronouns: she/her
 
 <!--
