@@ -4,7 +4,9 @@ I'm an Instructional Assistant Professor at the University of Florida in the Ele
 
 I'm also a GitHub Campus Advisor with University of Florida and GitHub.
 
-- 💬 Ask me about: (1) how to get started on Data Science and Machine Learning, (2) if you are a faculty member, ask me about how to integrate Git and GitHub with your course
+- 💬 Ask me about: 
+  1. how to get started on Data Science and Machine Learning
+  2. if you are a faculty member, ask me about how to integrate Git and GitHub with your course
 - 📫 How to reach me: 467 New Engineering Building, 1064 Center Dr, University of Florida --or-- by phone at (352) 392-6502
 - 😄 Pronouns: she/her
 
