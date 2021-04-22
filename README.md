@@ -11,7 +11,7 @@ I'm also a GitHub Campus Advisor with University of Florida and GitHub.
   1. Address: 467 New Engineering Building, 1064 Center Dr, University of Florida, Gainesville FL 32611
   2. Telephone: (352) 392-6502
   3. Email: catiaspsilva@ece.ufl.edu
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 
 <!--
 **catiaspsilva/catiaspsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
