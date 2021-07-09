@@ -6,6 +6,8 @@ I'm also a GitHub Campus Advisor with University of Florida and GitHub.
 
 Find more here: https://catiaspsilva.github.io/
 
+![snake gif](https://github.com/catiaspsilva/catiaspsilva/blob/output/github-contribution-grid-snake.gif)
+
 <!--- 😄 Pronouns: she/her/hers
 - 💬 Ask me about: 
   1. For students: how to get started on Data Science, Machine Learning, Git and GitHub
