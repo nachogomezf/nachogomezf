@@ -2,7 +2,7 @@
 
 I'm an Instructional Assistant Professor at the University of Florida in the Electrical and Computer Engineering Department. I teach undergraduate and graduate courses on Data Science and Machine Learning.
 
-I'm also a GitHub Campus Advisor with University of Florida and GitHub.
+I'm also a GitHub Campus Advisor with University of Florida and GitHub. I can help you integrate Git and Github with your courses and projects.
 
 Find more here: https://catiaspsilva.github.io/
 
